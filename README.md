@@ -1,2 +1,2 @@
-# knu21_SystemProgramming
- Rust, C, C++, Assembly 이용 시스템 프로그래밍/해킹/서버 예제
+# knu21 예제
+ Rust 멀티스레드 적분예제
